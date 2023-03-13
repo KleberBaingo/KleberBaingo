@@ -27,7 +27,6 @@ Texto sobre mim
 
 
 
-#
 
 ### 📊 Stats
 
